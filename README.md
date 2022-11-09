@@ -1,5 +1,6 @@
 # Machine_Learning_Projects
 # 1. Hepatitis Detection
+Predicted mortality classification of patients suffering from hepatitis based on health factors such as protime and albumin using gradient boosting, random forest, decision tree, K-Nearest Neighbors (KNN), support vector machine (SVM) and multilayer perceptron (MLP).
 - Dataset
 - 0_Hepatitis_Detection_Dataset_Processing
 - 1_Hepatitis_Detection_Before_Data_Preparation
